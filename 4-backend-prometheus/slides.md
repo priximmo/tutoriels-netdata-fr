@@ -52,3 +52,5 @@ ex :
 ```
 netdata_system_cpu_percentage_average{chart="system.cpu",dimension!="idle"}
 ```
+
+Template grafana : https://grafana.com/grafana/dashboards/7107
