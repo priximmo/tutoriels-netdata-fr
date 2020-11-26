@@ -5,6 +5,8 @@
 # Configuration
 
 <br>
+
+
 * configuration /etc/netdata
 		- conf netdata (historique...)
 		- conf sécurité (qui peut accéder à quoi)

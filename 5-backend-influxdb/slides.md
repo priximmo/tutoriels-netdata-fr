@@ -5,9 +5,13 @@
 # Netdata : Backend InfluxDB
 
 <br>
+
+
 Blog : https://computingforgeeks.com/monitor-linux-server-with-netdata-and-grafana/
 
 <br>
+
+
 * installation :
 
 ```
@@ -24,6 +28,8 @@ systemctl enable influxdb
 
 
 <br>
+
+
 * configuration influxdb /etc/influxdb/influxdb.conf
 
 ```
@@ -34,6 +40,8 @@ systemctl enable influxdb
 ```
 
 <br>
+
+
 
 ```
 [backend]
@@ -46,5 +54,7 @@ systemctl enable influxdb
 ```
 
 <br>
+
+
 
 * template : https://raw.githubusercontent.com/kmonsoor/netdata-influx-grafana/master/grafana-dashboard.json
